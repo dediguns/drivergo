@@ -1,0 +1,18 @@
+# Ignore local configuration files
+*.local
+*.env
+
+# Editor and IDE files
+.idea/
+.vscode/
+
+# Build directories
+bin/
+obj/
+
+# Log files
+*.log
+
+# Other
+.DS_Store
+Thumbs.db
